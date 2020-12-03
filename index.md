@@ -1,7 +1,8 @@
 # ViewNum of Warframe
 <details>
   <summary>ViewNum of Warframeは、クランマスターやこれからクランを作る人向けに。</summary>
-Warframeのクラメン募集フォーラムは本当に使えるのだろうか…その気持ちからどの期間にどういうクランがView数を伸ばしているのか監視するシステムを作りました。
+Warframeのクラメン募集フォーラムは本当に使えるのだろうか…<br>
+その気持ちからどの期間にどういうクランがView数を伸ばしているのか監視するシステムを作りました。
 </details>
 <br>
 ### Dashboard
