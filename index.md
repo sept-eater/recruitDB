@@ -7,4 +7,6 @@ Warframeのクラメン募集フォーラムは本当に使えるのだろうか
 <br>
 ### Dashboard
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/cf195273-f351-4625-8d8c-968700646d3a/page/vXErB" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<br>
+<br>
+####※まだまだ発展途上です。開発に参加してプルリクしよう！
